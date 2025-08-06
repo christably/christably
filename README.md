@@ -1,4 +1,5 @@
-<h1 align="left">Hi there 👋, I'm <a href="https://www.linkedin.com/in/christabel-aidoo" target="_blank">Christabel Aidoo</a></h1>
+<h1 align="left"><a href="https://christabely.netlify.app/">Christabel Aidoo</a>
+</h1>
 <h3 align="center">Full-Stack Developer | Legal Professional | Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +10,9 @@
 
 ![20dd0f0c-f2df-487e-8c60-763ab02da874](https://github.com/christabely/christabely/assets/129256391/3a00ff97-6c5d-4d34-bb52-8d7aa31fe575)
 
-## 💫 About Me
+## 💫 About Me:
+
+https://christabely.netlify.app/
 
 ### 💞 My Story
 My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and to contribute to cutting-edge innovations for the society.

@@ -1,5 +1,3 @@
-<h1 align="left"><a href="https://christabely.netlify.app/">Christabel Aidoo</a>
-</h1>
 <h3 align="center">Full-Stack Developer | Legal Professional | Cybersecurity Enthusiast</h3>
 
 <p align="center">

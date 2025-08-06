@@ -2,13 +2,12 @@
 <h3 align="center">Full-Stack Developer | Legal Professional | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Legal+Background;React+%7C+Django+%7C+Python;Cybersecurity+Enthusiast+%7C+API+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=0A75C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+.;Backend+Developer+%7C+Legal+Background" alt="Blue Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=DAA520&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+React+%7C+Cybersecurity" alt="Gold Typing" />
 </p>
 
-<p align="center">
-  <img src="https://cdn-iconscout.com/lottie/premium/thumb/female-web-developer-6895519-5606455.gif" width="400" alt="Woman Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</p>
 
+![20dd0f0c-f2df-487e-8c60-763ab02da874](https://github.com/christabely/christabely/assets/129256391/3a00ff97-6c5d-4d34-bb52-8d7aa31fe575)
 
 ## 💫 About Me
 
@@ -16,17 +15,17 @@
 My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and to contribute to cutting-edge innovations for the society.
 
 ### 🎓 Professional Life
-Possessing certificates in Software Engineering and Web Development, and a Bachelor's in Legal Studies, I bring a unique mix of law and tech. I'm currently specializing in Backend Development with ALX.
+Possess certificates in Web Development and Software Engineering from Mest Africa / Generation Ghana and ALX. I also a Bachelor's in Law. I bring a unique tech, project management,  strategic communication and team collaboration.
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-- **Programming:** Python, C, JavaScript, HTML, CSS, React, Django, Flask  
+- **Programming:** Python, C, JavaScript, HTML, CSS, React, Python, Django, Flask  
 - **Backend:** RESTful APIs, Database Management, Cloud Management  
-- **Legal Expertise:** Legal Research, Case Management, Company Law, Regulatory Compliance  
-- **Tools:** Git, GitHub, VS Code, Linux  
-- **Soft Skills:** Project Coordination, Strategic Communication, Operations Management
+- **Legal Expertise:** Legal Research, Project Management, Company Law, Regulatory Compliance  
+- **Tools:** Git, GitHub, Postman, Swagger, Docker
+- **Soft Skills:** Communication, Attention to Details, Collaboration
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,django,flask,git,github,linux,vscode" />

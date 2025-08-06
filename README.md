@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Legal Professional | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=0A75C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+.;Backend+Developer+%7C+Legal+Background" alt="Blue Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=0A75C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Developer+%7C+Project+Management" alt="Blue Typing" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=DAA520&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+React+%7C+Cybersecurity" alt="Gold Typing" />
 </p>
 
